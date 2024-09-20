@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3> Actividad de trajeta de invitacion BOOTCAMP de desarrollo web</h3>
+<h3> Actividad de tarjeta de invitacion BOOTCAMP de desarrollo web</h3>
 
 ## DESCRIPCION
 
